@@ -88,7 +88,9 @@
 .total-connections img {
     margin-left: 0.8rem;
 }
-
+/* Abaixo estamos criando um sistema de grid que ira criar duas linhas e três colunas, após isso,
+damos nome aos elemendos que irão compor essas duas linhas e três colunas, e depois criamos a 
+estilização das classes e nomeamos cada uma delas para que ocupem o devido espaço no grid. */
 @media (min-width: 1100px){
     #page-landing-content {
         max-width: 1100px;
